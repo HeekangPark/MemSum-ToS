@@ -1,10 +1,39 @@
 # tos-summary
 SNU CS &amp; AI 4190.678: Natural Language Processing
 
+## Building the data
+
+### Data format
+The data is in JSONL format (`.jsonl`), where each line in the file corresponds to a JSON object containing information of a document.
+```
+# ./examples/tosdr_instagram.jsonl
+{
+    "service": "Instagram", 
+    "url": "https://edit.tosdr.org//services/219/annotate",
+    "document_title": "Data Policy", 
+    "original_text_length": 222, 
+    "summary_length": 75, 
+    "original_text": ["Data Policy", "This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products).", "You can find additional tools and information in the Facebook Settings and Instagram Settings.", ...],
+    "summary": ["This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products).", "What kinds of information do we collect?", "To provide the Facebook Products, we must process information about you.", "The types of information we collect depend on how you use our Products.", ...]
+}
+```
+
+### Commands
+```
+conda create -n tos-scraper python=3.9
+```
 
 ```
 pip install -r requirements.txt
 ```
+
 ```
-nohup python scrape/tosdr_scraper.py &  # run in background
+python tosdr_scraper.py
+```
+
+Or run the notebook `test_tosdr.ipynb`.
+
+To run the script in the background, specify `nohup` and the `&` argument. The logs are written in real-time at the `nohup.out` file.
+```
+nohup python scrape/tosdr_scraper.py &
 ```
