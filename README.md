@@ -2,6 +2,7 @@
 SNU CS &amp; AI 4190.678: Natural Language Processing
 
 ## Building the data
+> NOTE: bug now fixed (bug: the website suspects that our scraper is calling abusive requests); needs to fully download data and filter it
 
 ### Data format
 The data is in JSONL format (`.jsonl`), where each line in the file corresponds to a JSON object containing information of a document.
@@ -33,7 +34,11 @@ python tosdr_scraper.py
 
 Or run the notebook `test_tosdr.ipynb`.
 
-To run the script in the background, specify `nohup` and the `&` argument. The logs are written in real-time at the `nohup.out` file.
+To run the script in the background, specify the `nohup` and the `&` argument. The logs are written in real-time at the `nohup.out` file.
 ```
 nohup python scrape/tosdr_scraper.py &
 ```
+```
+tail -f nohup.out
+```
+
