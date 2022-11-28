@@ -83,9 +83,9 @@ class ToSDRScraper():
         table = services_soup.select_one('table.table.table-striped')
         all_services = table.find_all('tr', {'data-classification': ['A', 'B', 'C', 'D', 'E']})
         print("Total number of services:", len(all_services))
-        block_num = 5
+        block_num = 0
         
-        for i, row in enumerate(tqdm(all_services[501:])):
+        for i, row in enumerate(tqdm(all_services)):
             columns = row.find_all('td')
             service = columns[1].text.strip()
             url = self.base_url + columns[4].find('a', href=True)['href']
