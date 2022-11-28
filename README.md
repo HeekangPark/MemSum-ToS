@@ -4,8 +4,8 @@ SNU CS &amp; AI 4190.678: Natural Language Processing
 ## Building the data
 > NOTE: bug now fixed (bug: the website suspects that our scraper is calling abusive requests); needs to fully download data and filter it
 
-### Data format
-The data is in JSONL format (`.jsonl`), where each line in the file corresponds to a JSON object containing information of a document.
+### Example data format
+Example data is in JSONL format (`.jsonl`), where each line in the file corresponds to a JSON object containing information of a document.
 ```
 # ./examples/tosdr_instagram.jsonl
 {
@@ -17,6 +17,9 @@ The data is in JSONL format (`.jsonl`), where each line in the file corresponds 
     "original_text": ["Data Policy", "This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products).", "You can find additional tools and information in the Facebook Settings and Instagram Settings.", ...],
     "summary": ["This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products).", "What kinds of information do we collect?", "To provide the Facebook Products, we must process information about you.", "The types of information we collect depend on how you use our Products.", ...]
 }
+
+The final dataset consists of only "text" and "summary", with all words lowercased.
+
 ```
 
 ### Commands
