@@ -32,14 +32,14 @@ pip install -r requirements.txt
 ```
 
 ```
-python tosdr_scraper.py
+python tosdr_scraper_preprocess.py
 ```
 
 Or run the notebook `test_tosdr.ipynb`.
 
 To run the script in the background, specify the `nohup` and the `&` argument. The logs are written in real-time at the `nohup.out` file.
 ```
-nohup python scrape/tosdr_scraper.py &
+nohup python scrape/tosdr_scraper_preprocess.py &
 ```
 ```
 tail -f nohup.out
