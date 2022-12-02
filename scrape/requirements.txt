@@ -8,3 +8,5 @@ jsonlines==3.1.0
 tqdm==4.64.1
 jupyter==1.0.0
 ipykernel==6.15.2
+ujson==5.4.0
+scikit-learn==1.1.3

@@ -19,10 +19,11 @@ from ftlangdetect import detect
 def set_chrome_driver():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36')
-    chrome_options.add_argument('--disable-gpu')
+    # chrome_options.add_argument('--disable-gpu')
     # chrome_options.add_argument('headless')
     # chrome_options.add_argument('window-size=1920x1080')
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+    # driver = webdriver.Chrome('/Users/suepark/.wdm/drivers/chromedriver/mac_arm64/107.0.5304/chromedriver', options=chrome_options)
     return driver
 
 class BlockedError(Exception):
@@ -167,6 +168,7 @@ class ToSDRScraper():
     
 
 if __name__== '__main__':
-    scraper = ToSDRScraper()
+    # scraper = ToSDRScraper()
+    scraper = ToSDRScraper(out_file="extractive_tosdr_resume.jsonl")
     scraper.login()
     scraper.scrape_services()
