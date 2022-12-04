@@ -1,0 +1,202 @@
+[WDM] - Downloading:   0%|          | 0.00/7.82M [00:00<?, ?B/s][WDM] - Downloading:  13%|█▎        | 1.05M/7.82M [00:00<00:00, 11.0MB/s][WDM] - Downloading:  28%|██▊       | 2.16M/7.82M [00:00<00:00, 11.3MB/s][WDM] - Downloading:  42%|████▏     | 3.26M/7.82M [00:00<00:00, 11.4MB/s][WDM] - Downloading:  56%|█████▌    | 4.35M/7.82M [00:00<00:00, 11.4MB/s][WDM] - Downloading:  70%|██████▉   | 5.46M/7.82M [00:00<00:00, 11.4MB/s][WDM] - Downloading:  84%|████████▍ | 6.60M/7.82M [00:00<00:00, 11.5MB/s][WDM] - Downloading:  99%|█████████▊| 7.70M/7.82M [00:00<00:00, 11.5MB/s][WDM] - Downloading: 100%|██████████| 7.82M/7.82M [00:00<00:00, 11.3MB/s]
+<selenium.webdriver.remote.webelement.WebElement (session="9eb5e8d27c588245ad39042e5389b22c", element="318bf277-7ee8-4487-adbe-d2558f643e90")> is found, page is now visible
+Total number of services: 1266
+[<tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/5911.png" width="32"/></td> <td>
+                  youtubemp3free
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/5911"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/5911/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/5939.png" width="32"/></td> <td>
+                  Earnably
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/5939"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/5939/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/5936.png" width="32"/></td> <td>
+                  Choozle
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/5936"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/5936/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/5934.png" width="32"/></td> <td>
+                  Extreme Reach
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/5934"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/5934/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/5967.png" width="32"/></td> <td>
+                  Hypothesis
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/5967"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/5967/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/5968.png" width="32"/></td> <td>
+                  ShuShu.tech
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/5968"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/5968/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6004.png" width="32"/></td> <td>
+                  Polyfill
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6004"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6004/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6033.png" width="32"/></td> <td>
+                  vericast
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6033"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6033/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="D"><td><img src="https://s3.tosdr.org/logos/6040.png" width="32"/></td> <td>
+                  DingTalk
+                </td> <td>D </td> <td class="text-right"><a class="btn btn-primary" href="/services/6040"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6040/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/5980.png" width="32"/></td> <td>
+                  Bio.Link
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/5980"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/5980/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="D"><td><img src="https://s3.tosdr.org/logos/6057.png" width="32"/></td> <td>
+                  Busuu 
+                </td> <td>D </td> <td class="text-right"><a class="btn btn-primary" href="/services/6057"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6057/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6102.png" width="32"/></td> <td>
+                  Arcinfo
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6102"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6102/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="D"><td><img src="https://s3.tosdr.org/logos/6126.png" width="32"/></td> <td>
+                  Anime Music Quiz
+                </td> <td>D </td> <td class="text-right"><a class="btn btn-primary" href="/services/6126"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6126/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/2230.png" width="32"/></td> <td>
+                  BlackBoard
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/2230"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/2230/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/528.png" width="32"/></td> <td>
+                  Signal
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/528"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/528/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6197.png" width="32"/></td> <td>
+                  Cyka.fun
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6197"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6197/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6239.png" width="32"/></td> <td>
+                  Not the Bee
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6239"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6239/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6226.png" width="32"/></td> <td>
+                  JustAnswer 
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6226"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6226/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6330.png" width="32"/></td> <td>
+                  Wurst Client
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6330"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6330/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="E"><td><img src="https://s3.tosdr.org/logos/6285.png" width="32"/></td> <td>
+                  Pantip.com
+                </td> <td>E </td> <td class="text-right"><a class="btn btn-primary" href="/services/6285"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6285/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6290.png" width="32"/></td> <td>
+                  Anedot
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6290"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6290/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6324.png" width="32"/></td> <td>
+                  ConnorCode
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6324"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6324/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6375.png" width="32"/></td> <td>
+                  NatureSpa.
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6375"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6375/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="D"><td><img src="https://s3.tosdr.org/logos/6392.png" width="32"/></td> <td>
+                  Arista Networks
+                </td> <td>D </td> <td class="text-right"><a class="btn btn-primary" href="/services/6392"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6392/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/2369.png" width="32"/></td> <td>
+                  Vonage
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/2369"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/2369/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6340.png" width="32"/></td> <td>
+                  Gamebanana
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6340"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6340/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6391.png" width="32"/></td> <td>
+                  Similar Worlds
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6391"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6391/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6376.png" width="32"/></td> <td>
+                  MAP LLC 
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6376"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6376/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6369.png" width="32"/></td> <td>
+                  Fembed
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6369"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6369/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6389.png" width="32"/></td> <td>
+                  LibreWolf
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6389"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6389/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6428.png" width="32"/></td> <td>
+                  ZURU
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6428"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6428/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6419.png" width="32"/></td> <td>
+                  FingerprintJS
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6419"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6419/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="E"><td><img src="https://s3.tosdr.org/logos/309.png" width="32"/></td> <td>
+                  Yahoo!
+                </td> <td>E </td> <td class="text-right"><a class="btn btn-primary" href="/services/309"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/309/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6417.png" width="32"/></td> <td>
+                  Weights and Biases
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6417"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6417/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6429.png" width="32"/></td> <td>
+                  Gap Creek Media
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6429"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6429/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6413.png" width="32"/></td> <td>
+                   Alovoa
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6413"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6413/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/2699.png" width="32"/></td> <td>
+                  HubSpot
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/2699"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/2699/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6451.png" width="32"/></td> <td>
+                  TimePerformance
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6451"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6451/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6414.png" width="32"/></td> <td>
+                  Hyperbeam
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6414"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6414/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6458.png" width="32"/></td> <td>
+                  TheITBros.com 
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6458"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6458/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6492.png" width="32"/></td> <td>
+                  Utreon
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6492"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6492/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6542.png" width="32"/></td> <td>
+                  NamesMaker
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6542"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6542/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6645.png" width="32"/></td> <td>
+                  LVFS
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6645"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6645/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="E"><td><img src="https://s3.tosdr.org/logos/311.png" width="32"/></td> <td>
+                  Snapchat
+                </td> <td>E </td> <td class="text-right"><a class="btn btn-primary" href="/services/311"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/311/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="E"><td><img src="https://s3.tosdr.org/logos/182.png" width="32"/></td> <td>
+                  Facebook
+                </td> <td>E </td> <td class="text-right"><a class="btn btn-primary" href="/services/182"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/182/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="E"><td><img src="https://s3.tosdr.org/logos/217.png" width="32"/></td> <td>
+                  Google
+                </td> <td>E </td> <td class="text-right"><a class="btn btn-primary" href="/services/217"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/217/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/288.png" width="32"/></td> <td>
+                  weebly
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/288"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/288/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/3532.png" width="32"/></td> <td>
+                  Toyota
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/3532"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/3532/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="C"><td><img src="https://s3.tosdr.org/logos/6722.png" width="32"/></td> <td>
+                  ArvanCloud
+                </td> <td>C </td> <td class="text-right"><a class="btn btn-primary" href="/services/6722"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6722/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6721.png" width="32"/></td> <td>
+                  Fill It Forward
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6721"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6721/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6686.png" width="32"/></td> <td>
+                  leetify
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6686"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6686/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6694.png" width="32"/></td> <td>
+                  Jsbin
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6694"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6694/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6751.png" width="32"/></td> <td>
+                  Odysee
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6751"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6751/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6756.png" width="32"/></td> <td>
+                  Allstar Gaming Inc.
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6756"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6756/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="E"><td><img src="https://s3.tosdr.org/logos/2685.png" width="32"/></td> <td>
+                  ADT
+                </td> <td>E </td> <td class="text-right"><a class="btn btn-primary" href="/services/2685"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/2685/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6785.png" width="32"/></td> <td>
+                  GMA Network
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6785"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6785/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="C"><td><img src="https://s3.tosdr.org/logos/3255.png" width="32"/></td> <td>
+                  ViacomCBS
+                </td> <td>C </td> <td class="text-right"><a class="btn btn-primary" href="/services/3255"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/3255/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/232.png" width="32"/></td> <td>
+                  OpenStreetMap
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/232"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/232/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="C"><td><img src="https://s3.tosdr.org/logos/390.png" width="32"/></td> <td>
+                  F-List
+                </td> <td>C </td> <td class="text-right"><a class="btn btn-primary" href="/services/390"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/390/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6291.png" width="32"/></td> <td>
+                  pfSense
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6291"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6291/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="A"><td><img src="https://s3.tosdr.org/logos/6395.png" width="32"/></td> <td>
+                  BrainFacts
+                </td> <td>A </td> <td class="text-right"><a class="btn btn-primary" href="/services/6395"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6395/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/6396.png" width="32"/></td> <td>
+                  GetUpside
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/6396"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/6396/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/4447.png" width="32"/></td> <td>
+                  Linguee
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/4447"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/4447/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/2620.png" width="32"/></td> <td>
+                  McGraw-Hill Education
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/2620"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/2620/annotate"> Annotate </a></td> <td></td></tr>, <tr class="toSort" data-classification="B"><td><img src="https://s3.tosdr.org/logos/1566.png" width="32"/></td> <td>
+                  Intercom
+                </td> <td>B </td> <td class="text-right"><a class="btn btn-primary" href="/services/1566"> Details </a></td> <td class="text-right"><a class="btn btn-primary" href="/services/1566/annotate"> Annotate </a></td> <td></td></tr>]
+  0%|          | 0/65 [00:00<?, ?it/s]/Users/suepark/miniconda3/envs/tos-crawler/lib/python3.9/site-packages/bs4/__init__.py:435: MarkupResemblesLocatorWarning: The input looks more like a filename than markup. You may want to open this file and pass the filehandle into Beautiful Soup.
+  warnings.warn(
+Warning : `load_model` does not return WordVectorModel or SupervisedModel any more, but a `FastText` object which is very similar.
+  2%|▏         | 1/65 [00:22<24:22, 22.85s/it]2022-12-04 15:48:31,322 - [_parse_document] - No annotation for (service: Earnably, document: Cookies Policy)! https://edit.tosdr.org/services/5939/annotate
+  3%|▎         | 2/65 [00:28<13:06, 12.49s/it]/Users/suepark/miniconda3/envs/tos-crawler/lib/python3.9/site-packages/bs4/__init__.py:404: MarkupResemblesLocatorWarning: The input looks more like a URL than markup. You may want to use an HTTP client like requests to get the document behind the URL, and feed that document to Beautiful Soup.
+  warnings.warn(
+  5%|▍         | 3/65 [00:38<12:07, 11.73s/it]  6%|▌         | 4/65 [00:47<10:49, 10.65s/it]2022-12-04 15:48:58,246 - [_parse_document] - No annotation for (service: Hypothesis, document: Privacy Policy for Learning Management System Users)! https://edit.tosdr.org/services/5967/annotate
+2022-12-04 15:48:58,261 - [_parse_document] - No annotation for (service: Hypothesis, document: Privacy Policy)! https://edit.tosdr.org/services/5967/annotate
+  8%|▊         | 5/65 [00:55<09:22,  9.38s/it]2022-12-04 15:49:02,413 - [_parse_document] - No annotation for (service: ShuShu.tech, document: Terms and conditions)! https://edit.tosdr.org/services/5968/annotate
+  9%|▉         | 6/65 [00:59<07:28,  7.60s/it]2022-12-04 15:49:08,533 - [_parse_document] - No annotation for (service: Polyfill, document:  Privacy Policy)! https://edit.tosdr.org/services/6004/annotate
+ 11%|█         | 7/65 [01:05<06:52,  7.12s/it]2022-12-04 15:49:14,553 - [_parse_document] - No annotation for (service: vericast, document:  Privacy Policy)! https://edit.tosdr.org/services/6033/annotate
+ 12%|█▏        | 8/65 [01:11<06:25,  6.77s/it]2022-12-04 15:49:21,388 - [_parse_document] - No annotation for (service: DingTalk, document: Legal Agreement)! https://edit.tosdr.org/services/6040/annotate
+2022-12-04 15:49:21,417 - [_parse_document] - No annotation for (service: DingTalk, document: Privacy Policy)! https://edit.tosdr.org/services/6040/annotate
+ 14%|█▍        | 9/65 [01:18<06:20,  6.80s/it] 15%|█▌        | 10/65 [01:24<06:00,  6.56s/it] 17%|█▋        | 11/65 [01:30<05:50,  6.50s/it]2022-12-04 15:49:42,956 - [_parse_document] - Not English or document is too short (service: Arcinfo, document: Conditions Générales sur ArcInfo )! https://edit.tosdr.org/services/6102/annotate
+ 18%|█▊        | 12/65 [01:39<06:27,  7.31s/it] 20%|██        | 13/65 [01:46<06:05,  7.03s/it]2022-12-04 15:50:00,714 - [_parse_document] - No annotation for (service: BlackBoard, document: California Privacy Notice)! https://edit.tosdr.org/services/2230/annotate
+2022-12-04 15:50:00,752 - [_parse_document] - No annotation for (service: BlackBoard, document: Blackboard Web Community Manager Privacy Statement)! https://edit.tosdr.org/services/2230/annotate
+2022-12-04 15:50:00,754 - [_parse_document] - No annotation for (service: BlackBoard, document: What's New in Our Privacy Statement)! https://edit.tosdr.org/services/2230/annotate
+ 22%|██▏       | 14/65 [01:57<07:05,  8.35s/it]2022-12-04 15:50:07,816 - [_parse_document] - No annotation for (service: Signal, document: Technical Information)! https://edit.tosdr.org/services/528/annotate
+ 23%|██▎       | 15/65 [02:04<06:38,  7.96s/it] 25%|██▍       | 16/65 [02:15<07:14,  8.87s/it]2022-12-04 15:50:23,842 - [_parse_document] - No annotation for (service: Not the Bee, document: Privacy Policy / Disclosure)! https://edit.tosdr.org/services/6239/annotate
+ 26%|██▌       | 17/65 [02:20<06:10,  7.72s/it] 28%|██▊       | 18/65 [02:26<05:31,  7.04s/it] 29%|██▉       | 19/65 [02:36<06:05,  7.93s/it]2022-12-04 15:50:43,358 - [_parse_document] - Not English or document is too short (service: Pantip.com, document: Terms of service)! https://edit.tosdr.org/services/6285/annotate
+2022-12-04 15:50:43,363 - [_parse_document] - Not English or document is too short (service: Pantip.com, document: Privacy Policy)! https://edit.tosdr.org/services/6285/annotate
+ 31%|███       | 20/65 [02:40<05:04,  6.77s/it]2022-12-04 15:50:51,324 - [_parse_document] - No annotation for (service: Anedot, document: Terms of Use for Supporters)! https://edit.tosdr.org/services/6290/annotate
+ 32%|███▏      | 21/65 [02:48<05:13,  7.13s/it] 34%|███▍      | 22/65 [02:55<05:15,  7.33s/it]2022-12-04 15:51:07,145 - [_parse_document] - No annotation for (service: NatureSpa., document: Terms)! https://edit.tosdr.org/services/6375/annotate
+ 35%|███▌      | 23/65 [03:03<05:16,  7.53s/it] 37%|███▋      | 24/65 [03:11<05:06,  7.48s/it]2022-12-04 15:51:25,088 - [_parse_document] - No annotation for (service: Vonage, document: Terms of Use)! https://edit.tosdr.org/services/2369/annotate
+2022-12-04 15:51:25,090 - [_parse_document] - No annotation for (service: Vonage, document: Supplemental Terms)! https://edit.tosdr.org/services/2369/annotate
+ 38%|███▊      | 25/65 [03:21<05:36,  8.41s/it]2022-12-04 15:51:35,176 - [_parse_document] - No annotation for (service: Gamebanana, document:  DMCA Policy )! https://edit.tosdr.org/services/6340/annotate
+ 40%|████      | 26/65 [03:31<05:47,  8.92s/it]2022-12-04 15:51:41,331 - [_parse_document] - No annotation for (service: Similar Worlds, document: Privacy Policy)! https://edit.tosdr.org/services/6391/annotate
+ 42%|████▏     | 27/65 [03:38<05:07,  8.09s/it] 43%|████▎     | 28/65 [03:44<04:36,  7.46s/it]2022-12-04 15:51:55,439 - [_parse_document] - No annotation for (service: Fembed, document: Copyright policy)! https://edit.tosdr.org/services/6369/annotate
+ 45%|████▍     | 29/65 [03:52<04:35,  7.66s/it] 46%|████▌     | 30/65 [04:04<05:14,  8.98s/it] 48%|████▊     | 31/65 [04:09<04:25,  7.82s/it]2022-12-04 15:52:20,887 - [_parse_document] - No annotation for (service: FingerprintJS, document: Terms of service)! https://edit.tosdr.org/services/6419/annotate
+ 49%|████▉     | 32/65 [04:17<04:22,  7.96s/it] 51%|█████     | 33/65 [04:28<04:39,  8.73s/it]2022-12-04 15:52:42,528 - [_parse_document] - No annotation for (service: Weights and Biases, document: Terms of Service)! https://edit.tosdr.org/services/6417/annotate
+ 52%|█████▏    | 34/65 [04:39<04:52,  9.43s/it] 54%|█████▍    | 35/65 [04:49<04:48,  9.62s/it] 55%|█████▌    | 36/65 [04:58<04:34,  9.48s/it]2022-12-04 15:53:11,149 - [_parse_document] - No annotation for (service: HubSpot, document: Product Specific Terms)! https://edit.tosdr.org/services/2699/annotate
+2022-12-04 15:53:11,174 - [_parse_document] - No annotation for (service: HubSpot, document: Jurisdiction Specific Terms)! https://edit.tosdr.org/services/2699/annotate
+ 57%|█████▋    | 37/65 [05:07<04:25,  9.47s/it]2022-12-04 15:53:21,645 - [_parse_document] - Not English or document is too short (service: TimePerformance, document: Mentions légales et charte de confidentialité)! https://edit.tosdr.org/services/6451/annotate
+ 58%|█████▊    | 38/65 [05:18<04:23,  9.77s/it]2022-12-04 15:53:33,088 - [_parse_document] - No annotation for (service: Hyperbeam, document: Terms of Service)! https://edit.tosdr.org/services/6414/annotate
+ 60%|██████    | 39/65 [05:29<04:27, 10.27s/it] 62%|██████▏   | 40/65 [05:38<04:07,  9.90s/it] 63%|██████▎   | 41/65 [05:43<03:17,  8.22s/it]2022-12-04 15:53:52,460 - [_parse_document] - No annotation for (service: NamesMaker, document:  Terms of Use)! https://edit.tosdr.org/services/6542/annotate
+2022-12-04 15:53:52,463 - [_parse_document] - No annotation for (service: NamesMaker, document: Cookies Policy)! https://edit.tosdr.org/services/6542/annotate
+ 65%|██████▍   | 42/65 [05:49<02:54,  7.57s/it] 66%|██████▌   | 43/65 [05:56<02:42,  7.40s/it]2022-12-04 15:54:03,901 - [_parse_document] - No annotation for (service: Snapchat, document: Lens Studio Terms)! https://edit.tosdr.org/services/311/annotate
+2022-12-04 15:54:03,905 - [_parse_document] - No annotation for (service: Snapchat, document: Community Guidelines)! https://edit.tosdr.org/services/311/annotate
+2022-12-04 15:54:03,906 - [_parse_document] - No annotation for (service: Snapchat, document: Report Copyright)! https://edit.tosdr.org/services/311/annotate
+2022-12-04 15:54:03,926 - [_parse_document] - No annotation for (service: Snapchat, document: Community Geo-Filter Terms and Conditions)! https://edit.tosdr.org/services/311/annotate
+ 68%|██████▊   | 44/65 [06:00<02:16,  6.51s/it]2022-12-04 15:54:12,340 - [_parse_document] - No annotation for (service: Facebook, document: Privacy Basics)! https://edit.tosdr.org/services/182/annotate
+ 69%|██████▉   | 45/65 [06:09<02:21,  7.08s/it] 71%|███████   | 46/65 [06:13<01:59,  6.31s/it]2022-12-04 15:54:23,415 - [_parse_document] - No annotation for (service: weebly, document: Privacy Policy)! https://edit.tosdr.org/services/288/annotate
+ 72%|███████▏  | 47/65 [06:20<01:55,  6.39s/it]2022-12-04 15:54:29,657 - [_parse_document] - No annotation for (service: Toyota, document: Privacy Notice)! https://edit.tosdr.org/services/3532/annotate
+ 74%|███████▍  | 48/65 [06:26<01:47,  6.34s/it]2022-12-04 15:54:40,024 - [_parse_document] - No annotation for (service: ArvanCloud, document:  Trademark Notification Policy)! https://edit.tosdr.org/services/6722/annotate
+2022-12-04 15:54:40,026 - [_parse_document] - No annotation for (service: ArvanCloud, document:  Data Portability)! https://edit.tosdr.org/services/6722/annotate
+ 75%|███████▌  | 49/65 [06:36<02:01,  7.57s/it]2022-12-04 15:54:51,434 - [_parse_document] - No annotation for (service: Fill It Forward, document: Website Terms of Use)! https://edit.tosdr.org/services/6721/annotate
+2022-12-04 15:54:51,438 - [_parse_document] - No annotation for (service: Fill It Forward, document: Website Privacy Policy)! https://edit.tosdr.org/services/6721/annotate
+ 77%|███████▋  | 50/65 [06:48<02:10,  8.71s/it] 78%|███████▊  | 51/65 [06:57<02:04,  8.87s/it] 80%|████████  | 52/65 [07:03<01:44,  8.06s/it] 82%|████████▏ | 53/65 [07:11<01:37,  8.09s/it]2022-12-04 15:55:20,766 - [_parse_document] - No content inside (service: Allstar Gaming Inc., document: Privacy Policy)! https://edit.tosdr.org/services/6756/annotate
+2022-12-04 15:55:20,766 - [_parse_document] - No content inside (service: Allstar Gaming Inc., document: Terms of Service)! https://edit.tosdr.org/services/6756/annotate
+ 83%|████████▎ | 54/65 [07:17<01:21,  7.39s/it] 85%|████████▍ | 55/65 [07:22<01:07,  6.79s/it] 86%|████████▌ | 56/65 [07:31<01:07,  7.46s/it]2022-12-04 15:55:45,803 - [_parse_document] - No annotation for (service: ViacomCBS, document: CBS Interactive Privacy Policy)! https://edit.tosdr.org/services/3255/annotate
+2022-12-04 15:55:45,824 - [_parse_document] - No annotation for (service: ViacomCBS, document: Do Not Sell My Information)! https://edit.tosdr.org/services/3255/annotate
+ 88%|████████▊ | 57/65 [07:42<01:07,  8.42s/it] 89%|████████▉ | 58/65 [07:50<00:58,  8.33s/it] 91%|█████████ | 59/65 [07:54<00:42,  7.05s/it]2022-12-04 15:56:03,656 - [_parse_document] - No annotation for (service: pfSense, document: Privacy Policy)! https://edit.tosdr.org/services/6291/annotate
+ 92%|█████████▏| 60/65 [08:00<00:33,  6.62s/it] 94%|█████████▍| 61/65 [08:06<00:25,  6.45s/it]2022-12-04 15:56:18,882 - [_parse_document] - No annotation for (service: GetUpside, document: Privacy Policy)! https://edit.tosdr.org/services/6396/annotate
+ 95%|█████████▌| 62/65 [08:15<00:21,  7.27s/it] 97%|█████████▋| 63/65 [08:23<00:15,  7.51s/it]2022-12-04 15:56:38,107 - [_parse_document] - No annotation for (service: McGraw-Hill Education, document: Customer Privacy Policy)! https://edit.tosdr.org/services/2620/annotate
+2022-12-04 15:56:38,114 - [_parse_document] - No content inside (service: McGraw-Hill Education, document: End User Data Privacy)! https://edit.tosdr.org/services/2620/annotate
+2022-12-04 15:56:38,114 - [_parse_document] - No content inside (service: McGraw-Hill Education, document: Parent Data Privacy Notice)! https://edit.tosdr.org/services/2620/annotate
+2022-12-04 15:56:38,116 - [_parse_document] - No annotation for (service: McGraw-Hill Education, document: User Content Submission Agreement)! https://edit.tosdr.org/services/2620/annotate
+ 98%|█████████▊| 64/65 [08:34<00:08,  8.61s/it]2022-12-04 15:56:48,446 - [_parse_document] - No annotation for (service: Intercom, document: Third Parties)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,535 - [_parse_document] - No annotation for (service: Intercom, document: E.U. - U.S. and Swiss - U.S. Privacy Shield Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,578 - [_parse_document] - No annotation for (service: Intercom, document: Security Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,621 - [_parse_document] - No annotation for (service: Intercom, document: Cookie Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,664 - [_parse_document] - No annotation for (service: Intercom, document: Intercom Website Terms of Use)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,707 - [_parse_document] - No annotation for (service: Intercom, document: Support Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,751 - [_parse_document] - No annotation for (service: Intercom, document: Acceptable Use Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,794 - [_parse_document] - No annotation for (service: Intercom, document: Privacy Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,837 - [_parse_document] - No annotation for (service: Intercom, document: Service Level Agreement)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,881 - [_parse_document] - No annotation for (service: Intercom, document: How We Bill)! https://edit.tosdr.org/services/1566/annotate
+100%|██████████| 65/65 [08:45<00:00,  9.25s/it]100%|██████████| 65/65 [08:45<00:00,  8.09s/it]

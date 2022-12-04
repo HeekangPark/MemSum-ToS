@@ -83,9 +83,10 @@ class ToSDRScraper():
         table = services_soup.select_one('table.table.table-striped')
         all_services = table.find_all('tr', {'data-classification': ['A', 'B', 'C', 'D', 'E']})
         print("Total number of services:", len(all_services))
-        block_num = 0
+        block_num = 12
+        print(all_services[1201:])
         
-        for i, row in enumerate(tqdm(all_services)):
+        for i, row in enumerate(tqdm(all_services[1201:])):
             columns = row.find_all('td')
             service = columns[1].text.strip()
             url = self.base_url + columns[4].find('a', href=True)['href']
@@ -97,6 +98,8 @@ class ToSDRScraper():
                 self._dump_pickle(f'./pickles/{self.pickle_name}_{block_num}.pickle', self.data)
                 self.data = []  # renew
                 block_num += 1
+                
+        self._dump_pickle(f'./pickles/{self.pickle_name}_{block_num}.pickle', self.data)
             
             
     def scrape_documents_per_service(self, service_name, url):

@@ -1,0 +1,62 @@
+2022-12-04 15:48:31,322 - [_parse_document] - No annotation for (service: Earnably, document: Cookies Policy)! https://edit.tosdr.org/services/5939/annotate
+2022-12-04 15:48:58,246 - [_parse_document] - No annotation for (service: Hypothesis, document: Privacy Policy for Learning Management System Users)! https://edit.tosdr.org/services/5967/annotate
+2022-12-04 15:48:58,261 - [_parse_document] - No annotation for (service: Hypothesis, document: Privacy Policy)! https://edit.tosdr.org/services/5967/annotate
+2022-12-04 15:49:02,413 - [_parse_document] - No annotation for (service: ShuShu.tech, document: Terms and conditions)! https://edit.tosdr.org/services/5968/annotate
+2022-12-04 15:49:08,533 - [_parse_document] - No annotation for (service: Polyfill, document:  Privacy Policy)! https://edit.tosdr.org/services/6004/annotate
+2022-12-04 15:49:14,553 - [_parse_document] - No annotation for (service: vericast, document:  Privacy Policy)! https://edit.tosdr.org/services/6033/annotate
+2022-12-04 15:49:21,388 - [_parse_document] - No annotation for (service: DingTalk, document: Legal Agreement)! https://edit.tosdr.org/services/6040/annotate
+2022-12-04 15:49:21,417 - [_parse_document] - No annotation for (service: DingTalk, document: Privacy Policy)! https://edit.tosdr.org/services/6040/annotate
+2022-12-04 15:49:42,956 - [_parse_document] - Not English or document is too short (service: Arcinfo, document: Conditions Générales sur ArcInfo )! https://edit.tosdr.org/services/6102/annotate
+2022-12-04 15:50:00,714 - [_parse_document] - No annotation for (service: BlackBoard, document: California Privacy Notice)! https://edit.tosdr.org/services/2230/annotate
+2022-12-04 15:50:00,752 - [_parse_document] - No annotation for (service: BlackBoard, document: Blackboard Web Community Manager Privacy Statement)! https://edit.tosdr.org/services/2230/annotate
+2022-12-04 15:50:00,754 - [_parse_document] - No annotation for (service: BlackBoard, document: What's New in Our Privacy Statement)! https://edit.tosdr.org/services/2230/annotate
+2022-12-04 15:50:07,816 - [_parse_document] - No annotation for (service: Signal, document: Technical Information)! https://edit.tosdr.org/services/528/annotate
+2022-12-04 15:50:23,842 - [_parse_document] - No annotation for (service: Not the Bee, document: Privacy Policy / Disclosure)! https://edit.tosdr.org/services/6239/annotate
+2022-12-04 15:50:43,358 - [_parse_document] - Not English or document is too short (service: Pantip.com, document: Terms of service)! https://edit.tosdr.org/services/6285/annotate
+2022-12-04 15:50:43,363 - [_parse_document] - Not English or document is too short (service: Pantip.com, document: Privacy Policy)! https://edit.tosdr.org/services/6285/annotate
+2022-12-04 15:50:51,324 - [_parse_document] - No annotation for (service: Anedot, document: Terms of Use for Supporters)! https://edit.tosdr.org/services/6290/annotate
+2022-12-04 15:51:07,145 - [_parse_document] - No annotation for (service: NatureSpa., document: Terms)! https://edit.tosdr.org/services/6375/annotate
+2022-12-04 15:51:25,088 - [_parse_document] - No annotation for (service: Vonage, document: Terms of Use)! https://edit.tosdr.org/services/2369/annotate
+2022-12-04 15:51:25,090 - [_parse_document] - No annotation for (service: Vonage, document: Supplemental Terms)! https://edit.tosdr.org/services/2369/annotate
+2022-12-04 15:51:35,176 - [_parse_document] - No annotation for (service: Gamebanana, document:  DMCA Policy )! https://edit.tosdr.org/services/6340/annotate
+2022-12-04 15:51:41,331 - [_parse_document] - No annotation for (service: Similar Worlds, document: Privacy Policy)! https://edit.tosdr.org/services/6391/annotate
+2022-12-04 15:51:55,439 - [_parse_document] - No annotation for (service: Fembed, document: Copyright policy)! https://edit.tosdr.org/services/6369/annotate
+2022-12-04 15:52:20,887 - [_parse_document] - No annotation for (service: FingerprintJS, document: Terms of service)! https://edit.tosdr.org/services/6419/annotate
+2022-12-04 15:52:42,528 - [_parse_document] - No annotation for (service: Weights and Biases, document: Terms of Service)! https://edit.tosdr.org/services/6417/annotate
+2022-12-04 15:53:11,149 - [_parse_document] - No annotation for (service: HubSpot, document: Product Specific Terms)! https://edit.tosdr.org/services/2699/annotate
+2022-12-04 15:53:11,174 - [_parse_document] - No annotation for (service: HubSpot, document: Jurisdiction Specific Terms)! https://edit.tosdr.org/services/2699/annotate
+2022-12-04 15:53:21,645 - [_parse_document] - Not English or document is too short (service: TimePerformance, document: Mentions légales et charte de confidentialité)! https://edit.tosdr.org/services/6451/annotate
+2022-12-04 15:53:33,088 - [_parse_document] - No annotation for (service: Hyperbeam, document: Terms of Service)! https://edit.tosdr.org/services/6414/annotate
+2022-12-04 15:53:52,460 - [_parse_document] - No annotation for (service: NamesMaker, document:  Terms of Use)! https://edit.tosdr.org/services/6542/annotate
+2022-12-04 15:53:52,463 - [_parse_document] - No annotation for (service: NamesMaker, document: Cookies Policy)! https://edit.tosdr.org/services/6542/annotate
+2022-12-04 15:54:03,901 - [_parse_document] - No annotation for (service: Snapchat, document: Lens Studio Terms)! https://edit.tosdr.org/services/311/annotate
+2022-12-04 15:54:03,905 - [_parse_document] - No annotation for (service: Snapchat, document: Community Guidelines)! https://edit.tosdr.org/services/311/annotate
+2022-12-04 15:54:03,906 - [_parse_document] - No annotation for (service: Snapchat, document: Report Copyright)! https://edit.tosdr.org/services/311/annotate
+2022-12-04 15:54:03,926 - [_parse_document] - No annotation for (service: Snapchat, document: Community Geo-Filter Terms and Conditions)! https://edit.tosdr.org/services/311/annotate
+2022-12-04 15:54:12,340 - [_parse_document] - No annotation for (service: Facebook, document: Privacy Basics)! https://edit.tosdr.org/services/182/annotate
+2022-12-04 15:54:23,415 - [_parse_document] - No annotation for (service: weebly, document: Privacy Policy)! https://edit.tosdr.org/services/288/annotate
+2022-12-04 15:54:29,657 - [_parse_document] - No annotation for (service: Toyota, document: Privacy Notice)! https://edit.tosdr.org/services/3532/annotate
+2022-12-04 15:54:40,024 - [_parse_document] - No annotation for (service: ArvanCloud, document:  Trademark Notification Policy)! https://edit.tosdr.org/services/6722/annotate
+2022-12-04 15:54:40,026 - [_parse_document] - No annotation for (service: ArvanCloud, document:  Data Portability)! https://edit.tosdr.org/services/6722/annotate
+2022-12-04 15:54:51,434 - [_parse_document] - No annotation for (service: Fill It Forward, document: Website Terms of Use)! https://edit.tosdr.org/services/6721/annotate
+2022-12-04 15:54:51,438 - [_parse_document] - No annotation for (service: Fill It Forward, document: Website Privacy Policy)! https://edit.tosdr.org/services/6721/annotate
+2022-12-04 15:55:20,766 - [_parse_document] - No content inside (service: Allstar Gaming Inc., document: Privacy Policy)! https://edit.tosdr.org/services/6756/annotate
+2022-12-04 15:55:20,766 - [_parse_document] - No content inside (service: Allstar Gaming Inc., document: Terms of Service)! https://edit.tosdr.org/services/6756/annotate
+2022-12-04 15:55:45,803 - [_parse_document] - No annotation for (service: ViacomCBS, document: CBS Interactive Privacy Policy)! https://edit.tosdr.org/services/3255/annotate
+2022-12-04 15:55:45,824 - [_parse_document] - No annotation for (service: ViacomCBS, document: Do Not Sell My Information)! https://edit.tosdr.org/services/3255/annotate
+2022-12-04 15:56:03,656 - [_parse_document] - No annotation for (service: pfSense, document: Privacy Policy)! https://edit.tosdr.org/services/6291/annotate
+2022-12-04 15:56:18,882 - [_parse_document] - No annotation for (service: GetUpside, document: Privacy Policy)! https://edit.tosdr.org/services/6396/annotate
+2022-12-04 15:56:38,107 - [_parse_document] - No annotation for (service: McGraw-Hill Education, document: Customer Privacy Policy)! https://edit.tosdr.org/services/2620/annotate
+2022-12-04 15:56:38,114 - [_parse_document] - No content inside (service: McGraw-Hill Education, document: End User Data Privacy)! https://edit.tosdr.org/services/2620/annotate
+2022-12-04 15:56:38,114 - [_parse_document] - No content inside (service: McGraw-Hill Education, document: Parent Data Privacy Notice)! https://edit.tosdr.org/services/2620/annotate
+2022-12-04 15:56:38,116 - [_parse_document] - No annotation for (service: McGraw-Hill Education, document: User Content Submission Agreement)! https://edit.tosdr.org/services/2620/annotate
+2022-12-04 15:56:48,446 - [_parse_document] - No annotation for (service: Intercom, document: Third Parties)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,535 - [_parse_document] - No annotation for (service: Intercom, document: E.U. - U.S. and Swiss - U.S. Privacy Shield Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,578 - [_parse_document] - No annotation for (service: Intercom, document: Security Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,621 - [_parse_document] - No annotation for (service: Intercom, document: Cookie Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,664 - [_parse_document] - No annotation for (service: Intercom, document: Intercom Website Terms of Use)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,707 - [_parse_document] - No annotation for (service: Intercom, document: Support Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,751 - [_parse_document] - No annotation for (service: Intercom, document: Acceptable Use Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,794 - [_parse_document] - No annotation for (service: Intercom, document: Privacy Policy)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,837 - [_parse_document] - No annotation for (service: Intercom, document: Service Level Agreement)! https://edit.tosdr.org/services/1566/annotate
+2022-12-04 15:56:48,881 - [_parse_document] - No annotation for (service: Intercom, document: How We Bill)! https://edit.tosdr.org/services/1566/annotate
